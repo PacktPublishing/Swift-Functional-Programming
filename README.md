@@ -5,6 +5,8 @@ Swift is a multi-paradigm programming language enabling you to tackle different 
 
 It starts with the basics of FP, and you will go through all the core concepts of Swift and the building blocks of FP. You will also go through important aspects, such as function composition and currying, custom operator definition, monads, functors, applicative functors, memoization, lenses, algebraic data types, type erasure, functional data structures, functional reactive programming (FRP), and protocol-oriented programming (POP).
 
+You will then learn to combine those techniques to develop a fully functional iOS application from scratch.
+
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
