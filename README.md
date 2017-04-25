@@ -18,7 +18,7 @@ let numbers = [9, 29, 19, 79]
 // Imperative example
 var tripledNumbers: [Int] = []
 for number in numbers {
- tripledNumbers.append(number * 3)
+    tripledNumbers.append(number * 3)
 }
 print(tripledNumbers)
 ```
@@ -26,9 +26,13 @@ print(tripledNumbers)
 To follow along with the examples in this book, you'll need to have an Apple computer with macOS 10.10 or higher installed. You'll also need to install Xcode 8.3 or newer with Swift 3.1 or newer.
 
 ## Related Products
-* [Swift iOS Programming for Kids](https://www.packtpub.com/application-development/swift-ios-programming-kids?utm_source=github&utm_medium=repository&utm_campaign=9781787120747)
+* [Swift 3 Object-Oriented Programming - Second Edition](https://www.packtpub.com/application-development/swift-3-object-oriented-programming-second-edition)
+
+* [Swift 3 Protocol-Oriented Programming - Second Edition](https://www.packtpub.com/application-development/swift-3-protocol-oriented-programming-second-edition)
 
 * [Swift: Developing iOS Applications](https://www.packtpub.com/virtualization-and-cloud/swift-developing-ios-applications?utm_source=github&utm_medium=repository&utm_campaign=9781787120242)
+
+* [Swift iOS Programming for Kids](https://www.packtpub.com/application-development/swift-ios-programming-kids?utm_source=github&utm_medium=repository&utm_campaign=9781787120747)
 
 * [Swift 3 Game Development - Second Edition](https://www.packtpub.com/application-development/swift-3-game-development-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787127753)
 
