@@ -1,0 +1,25 @@
+{
+  "name": "Delta",
+  "version": "1.0.0",
+  "summary": "Managing state is hard. Delta aims to make it simple.",
+  "homepage": "https://github.com/conqueror/Delta",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jake Craige": "james.craige@gmail.com",
+    "Giles Van Gruisen": "giles@thoughtbot.com",
+    "thoughtbot": null
+  },
+  "source": {
+    "git": "https://github.com/conqueror/Delta.git",
+    "tag": "v1.0.0",
+    "submodules": true
+  },
+  "source_files": "Sources/**/*.{h,swift}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  }
+}
