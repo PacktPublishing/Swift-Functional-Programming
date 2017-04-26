@@ -28,7 +28,7 @@ To follow along with the examples in this book, you'll need to have an Apple com
 ## Related Products
 * [Swift 3 Object-Oriented Programming - Second Edition](https://www.packtpub.com/application-development/swift-3-object-oriented-programming-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787120396)
 
-* [Swift 3 Protocol-Oriented Programming - Second Edition](https://www.packtpub.com/application-development/swift-3-protocol-oriented-programming-second-edition)
+* [Swift 3 Protocol-Oriented Programming - Second Edition](https://www.packtpub.com/application-development/swift-3-protocol-oriented-programming-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787129948)
 
 * [Swift: Developing iOS Applications](https://www.packtpub.com/virtualization-and-cloud/swift-developing-ios-applications?utm_source=github&utm_medium=repository&utm_campaign=9781787120242)
 
